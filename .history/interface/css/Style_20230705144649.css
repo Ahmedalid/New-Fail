@@ -1,0 +1,168 @@
+/* Font Css */
+
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@500;700;800;900&family=IBM+Plex+Sans+Arabic:wght@500&family=Playfair+Display:ital,wght@0,600;1,600&family=Roboto:ital@0;1&display=swap');
+
+
+html {
+    font-family: sans-serif !important;
+}
+body{
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
+    font-family: 'Cairo', sans-serif !important;
+font-family: 'IBM Plex Sans Arabic', sans-serif !important;
+font-family: 'Playfair Display', serif !important;
+font-family: 'Roboto', sans-serif !important;
+    
+}
+
+
+
+
+#loading-pre.fadeOut{
+    display: none;
+}
+#element_to_pop_up {
+    direction: rtl;
+    background-color: #FFF;
+    margin: 0px auto;
+    display: table;
+    border-radius: 5px;
+    box-shadow: 0px 0px 30px #CCC;
+    left: 40% !important;
+}
+.in_salon .city_home {
+    background: #fff;
+}
+.in_salon .city_home:hover{
+    background: #e4e4e4 !important;
+}
+
+.city_home{
+    background: #e4e4e4;
+    font-weight: bold;
+}
+.city_home:hover{
+    background: #e4e4e4 !important;
+}
+.distrect_home{
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+}
+.newsletter h3.title {
+    font-size: 13px;
+    text-transform: none;
+}
+
+.service-calendar li.booked button {
+    border-color: #cd0a0a;
+    background-color: #cd0a0a;
+    color: #ffffff;
+}
+.closed .salon-hr .more-details .box.time .top:before {
+    background-color: #999;
+}
+.cate{
+    padding: 50px 10px !important;
+}
+.grid-item svg{
+    font-size: 25x !important;
+}
+.add-fav, .remove-fav{
+    display: none;
+}
+.d-between{
+    display: flex !important;
+    justify-content: space-between !important;
+
+}
+
+.d-between svg:hover{
+    color: red;
+    cursor: pointer;
+}
+.general-link svg{
+    font-size: 20px !important;
+}
+.font-16{
+    font-size: 16px !important;
+}
+.all-wrapper {
+    direction: rtl;
+    font-family: 'Droid Arabic Kufi',sans-serif !important;
+}
+
+
+
+/* Contact Us */
+
+#loading-pre.fadeOut{
+    display: none;
+}
+#element_to_pop_up {
+    direction: rtl;
+    background-color: #FFF;
+    margin: 0px auto;
+    display: table;
+    border-radius: 5px;
+    box-shadow: 0px 0px 30px #CCC;
+    left: 40% !important;
+}
+.in_salon .city_home {
+    background: #fff;
+}
+.in_salon .city_home:hover{
+    background: #e4e4e4 !important;
+}
+
+.city_home{
+    background: #e4e4e4;
+    font-weight: bold;
+}
+.city_home:hover{
+    background: #e4e4e4 !important;
+}
+.distrect_home{
+    padding-left: 30px !important;
+    padding-right: 30px !important;
+}
+.newsletter h3.title {
+    font-size: 13px;
+    text-transform: none;
+}
+
+.service-calendar li.booked button {
+    border-color: #cd0a0a;
+    background-color: #cd0a0a;
+    color: #ffffff;
+}
+.closed .salon-hr .more-details .box.time .top:before {
+    background-color: #999;
+}
+.responsive-map{
+    overflow: hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+    }
+    .responsive-map iframe{
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    }
+.address svg{
+    color: #9773aa;
+    margin-left: 10px;
+}
+.color-1 svg{
+    color: #9773aa !important;
+    font-size: 16px !important;
+}
+.d-center{
+    display: flex !important;
+    justify-content: center;
+}
+.icone-heart svg{
+    font-size: 72;
+}
